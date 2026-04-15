@@ -50,8 +50,7 @@ A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No f
 - **localStorage** — client-side persistence
 
 ## 🚀 Live Demo
-👉 **[View Live Demo](https://your-username.github.io/advanced-todo-app/)** *(update the link after deploying)*
-
+👉 **[View Live Demo](https://taskflowstate.netlify.app/)** 
 ## 📁 Project Structure
 
 advanced-todo-app/
