@@ -7,8 +7,6 @@
 
 A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools — just clean, production-quality code.
 
-![TaskFlow Preview](https://img.shields.io/badge/Status-Production%20Ready-22c55e?style=for-the-badge)
-
 ---
 
 ## ✨ Features
