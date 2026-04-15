@@ -1,13 +1,10 @@
----
-
-#### `README.md`
 
 ```markdown
 # TaskFlow — Advanced Todo App
 
 A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools — just clean, production-quality code.
 
----
+![TaskFlow Preview](https://img.shields.io/badge/Status-Production%20Ready-22c55e?style=for-the-badge)
 
 ## ✨ Features
 
@@ -32,7 +29,7 @@ A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No f
 ### UX & Design
 - **Dark mode** with system-persistent toggle
 - **Toast notifications** — success, error, and info feedback
-- **Confirmation modals** — safe delete with undo option
+- **Confirmation modals** — safe delete with confirmation
 - **Empty states** — context-aware messages for every view
 - **Progress bar** — tracks today's task completion percentage
 - **Staggered animations** — tasks animate in sequentially
@@ -45,24 +42,18 @@ A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No f
 | `Escape` | Close modal / sidebar |
 | `Ctrl + K` | Focus search bar |
 
----
-
 ## 🛠 Tech Stack
 
 - **HTML5** — semantic structure
-- **CSS3** — custom properties, flexbox, animations, `backdrop-filter`
+- **CSS3** — custom properties, flexbox, animations, backdrop-filter
 - **Vanilla JavaScript** — ES6+, no dependencies
 - **Font Awesome 6** — icons
 - **Google Fonts** — Inter typeface
 - **localStorage** — client-side persistence
 
----
-
 ## 🚀 Live Demo
 
 👉 **[View Live](#)** *(replace # with your GitHub Pages URL after deploying)*
-
----
 
 ## 📁 Project Structure
 
@@ -73,8 +64,6 @@ advanced-todo-app/
 ├── script.js       # All logic, state, and interactions
 └── README.md       # This file
 ```
-
----
 
 ## 🚀 Getting Started
 
@@ -95,20 +84,16 @@ open index.html
 4. Click **Save**
 5. Your site will be live at `https://YOUR-USERNAME.github.io/advanced-todo-app/`
 
----
-
-
+## 📱 Screenshots
 
 ### Light Mode
-> Clean white interface with blue accent, sidebar navigation, and expandable task input.
+Clean white interface with blue accent, sidebar navigation, and expandable task input.
 
 ### Dark Mode
-> Deep dark background with optimized contrast and glowing accent colors.
+Deep dark background with optimized contrast and glowing accent colors.
 
 ### Mobile View
-> Collapsible sidebar with overlay, stacked layout, and always-visible action buttons.
-
----
+Collapsible sidebar with overlay, stacked layout, and always-visible action buttons.
 
 ## 🎯 Why This Project
 
@@ -117,18 +102,14 @@ This project demonstrates proficiency in:
 - **No-framework architecture** — organizing a complex UI with vanilla JS
 - **State management** — centralized task state with derived views (filters, sorts, counts)
 - **CSS custom properties** — theming system with 30+ design tokens
-- **Responsive design** — desktop sidebar → mobile drawer pattern
+- **Responsive design** — desktop sidebar to mobile drawer pattern
 - **Accessibility** — keyboard navigation, focus states, semantic HTML
 - **UX patterns** — toast notifications, confirmation dialogs, empty states, loading animations
 - **Data persistence** — localStorage with clean serialization
 
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙏 Credits
 
@@ -138,6 +119,4 @@ Built as part of the **Wix Grow** application portfolio.
 - Font by [Google Fonts — Inter](https://fonts.google.com/specimen/Inter)
 ```
 
----
-
-Just replace `YOUR-USERNAME` in the two places it appears (clone URL and GitHub Pages link) and you're done.
+Removed every `---` line. Copy-paste this directly and the YAML error is gone.
