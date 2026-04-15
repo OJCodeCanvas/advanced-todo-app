@@ -53,3 +53,18 @@ A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No f
 👉 **[View Live Demo](https://your-username.github.io/advanced-todo-app/)** *(update the link after deploying)*
 
 ## 📁 Project Structure
+
+advanced-todo-app/
+├── index.html          # App structure & modals
+├── style.css           # Full responsive styling + dark mode
+├── script.js           # All logic, state, and interactions
+└── README.md
+
+
+## 🚀 Getting Started
+
+### Option 1 — Run locally
+```bash
+git clone https://github.com/YOUR-USERNAME/advanced-todo-app.git
+cd advanced-todo-app
+open index.html
