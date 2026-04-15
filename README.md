@@ -1,5 +1,3 @@
-
-```markdown
 # TaskFlow — Advanced Todo App
 
 A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools — just clean, production-quality code.
@@ -36,14 +34,14 @@ A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No f
 - **Fully responsive** — mobile sidebar with overlay, touch-friendly
 
 ### Keyboard Shortcuts
-| Shortcut | Action |
-|---|---|
-| `Enter` | Add task |
-| `Escape` | Close modal / sidebar |
-| `Ctrl + K` | Focus search bar |
+
+| Shortcut     | Action                    |
+|--------------|---------------------------|
+| `Enter`      | Add task                  |
+| `Escape`     | Close modal / sidebar     |
+| `Ctrl + K`   | Focus search bar          |
 
 ## 🛠 Tech Stack
-
 - **HTML5** — semantic structure
 - **CSS3** — custom properties, flexbox, animations, backdrop-filter
 - **Vanilla JavaScript** — ES6+, no dependencies
@@ -52,71 +50,6 @@ A fully-featured task manager built with vanilla HTML, CSS, and JavaScript. No f
 - **localStorage** — client-side persistence
 
 ## 🚀 Live Demo
-
-👉 **[View Live](#)** *(replace # with your GitHub Pages URL after deploying)*
+👉 **[View Live Demo](https://your-username.github.io/advanced-todo-app/)** *(update the link after deploying)*
 
 ## 📁 Project Structure
-
-```
-advanced-todo-app/
-├── index.html      # App structure & modals
-├── style.css       # Full responsive styling + dark mode
-├── script.js       # All logic, state, and interactions
-└── README.md       # This file
-```
-
-## 🚀 Getting Started
-
-### Option 1 — Just open it
-Clone or download the repo, then open `index.html` in your browser.
-
-```bash
-git clone https://github.com/YOUR-USERNAME/advanced-todo-app.git
-cd advanced-todo-app
-open index.html
-```
-
-### Option 2 — Deploy to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Under **Source**, select `main` branch and `/ (root)`
-4. Click **Save**
-5. Your site will be live at `https://YOUR-USERNAME.github.io/advanced-todo-app/`
-
-## 📱 Screenshots
-
-### Light Mode
-Clean white interface with blue accent, sidebar navigation, and expandable task input.
-
-### Dark Mode
-Deep dark background with optimized contrast and glowing accent colors.
-
-### Mobile View
-Collapsible sidebar with overlay, stacked layout, and always-visible action buttons.
-
-## 🎯 Why This Project
-
-This project demonstrates proficiency in:
-
-- **No-framework architecture** — organizing a complex UI with vanilla JS
-- **State management** — centralized task state with derived views (filters, sorts, counts)
-- **CSS custom properties** — theming system with 30+ design tokens
-- **Responsive design** — desktop sidebar to mobile drawer pattern
-- **Accessibility** — keyboard navigation, focus states, semantic HTML
-- **UX patterns** — toast notifications, confirmation dialogs, empty states, loading animations
-- **Data persistence** — localStorage with clean serialization
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Credits
-
-Built as part of the **Wix Grow** application portfolio.
-
-- Icons by [Font Awesome](https://fontawesome.com/)
-- Font by [Google Fonts — Inter](https://fonts.google.com/specimen/Inter)
-```
-
-Removed every `---` line. Copy-paste this directly and the YAML error is gone.
